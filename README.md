@@ -1,4 +1,5 @@
-# Automatic-Script-Recognition-And-Converter-Cyrillic-Latin
+# Serbian script converter
+Automatic-Script-Recognition-And-Converter-Cyrillic-Latin
 
 This is a simple Python class for converting text between the Cyrillic and Latin scripts used in the Serbian language.
 
