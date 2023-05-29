@@ -39,10 +39,3 @@ class SerbianScriptConverter:
             return self.cyr_to_lat()
         else:
             return self.lat_to_cyr()
-
-
-
-str_lat = "Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom"
-str_cyr = "Одредбе овог закона примењују се на запослене који раде на територији Републике. Србије, код домаћег или страног правног, односно физичког лица "
-
-print(SerbianScriptConverter(str_cyr).convert_script)
